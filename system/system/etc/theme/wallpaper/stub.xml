@@ -1,0 +1,13 @@
+<!-- stub information for MultiPack WallPaper -->
+<stub>
+    <wallpaper>
+        <packageName>SamsungUX.DW.Stub191Q01.wallpapermulti</packageName>
+        <title>Galaxy picks</title>
+        <thumbnail>GalaxyPick_thumb.jpg</thumbnail>
+    </wallpaper>
+    <wallpaper>
+        <packageName>SamsungUX.DW.Stub193Q01.wallpapermulti</packageName>
+        <title>Galaxy picks 2</title>
+        <thumbnail>GalaxyPick2_thumb.jpg</thumbnail>
+    </wallpaper>
+</stub>
