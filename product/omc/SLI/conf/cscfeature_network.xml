@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <NetworkVersion>ED00003</NetworkVersion>
+  <NetworkCountry>SRILANKA</NetworkCountry>
+  <NetworkCountryISO>LK</NetworkCountryISO>
+  <NetworkCode>SLI</NetworkCode>
+  <FeatureSet>
+    <CscFeature_IMS_EnableIMS>TRUE</CscFeature_IMS_EnableIMS>
+    <CscFeature_IMS_EnableVoLTE>TRUE</CscFeature_IMS_EnableVoLTE>
+    <CscFeature_IMS_FrameworkVersion>6.0</CscFeature_IMS_FrameworkVersion>
+    <CscFeature_Message_ConfigImeiTracker>+94115882467</CscFeature_Message_ConfigImeiTracker>
+    <CscFeature_RIL_BlockUssdDuringVolteCall>TRUE</CscFeature_RIL_BlockUssdDuringVolteCall>
+    <CscFeature_RIL_CallCsVtSupport>TRUE</CscFeature_RIL_CallCsVtSupport>
+    <CscFeature_RIL_ConfigAlwaysOnApn>ims</CscFeature_RIL_ConfigAlwaysOnApn>
+    <CscFeature_RIL_ConfigGlobalModuleType>LTE</CscFeature_RIL_ConfigGlobalModuleType>
+    <CscFeature_RIL_ConfigNetworkTypeCapability>EUR-EUR-GSM-EUR</CscFeature_RIL_ConfigNetworkTypeCapability>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_DataPrefDataTechSnapShot>TRUE</CscFeature_RIL_DataPrefDataTechSnapShot>
+    <CscFeature_RIL_DisableEons>TRUE</CscFeature_RIL_DisableEons>
+    <CscFeature_RIL_DisplayAntennaLimited>TRUE</CscFeature_RIL_DisplayAntennaLimited>
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+    <CscFeature_RIL_GcfSor>TRUE</CscFeature_RIL_GcfSor>
+    <CscFeature_RIL_ReferEonsWithoutLac>TRUE</CscFeature_RIL_ReferEonsWithoutLac>
+    <CscFeature_RIL_SetNetworkTypeWhenRadioOff>TRUE</CscFeature_RIL_SetNetworkTypeWhenRadioOff>
+    <CscFeature_RIL_SmsLoadShortcodeFromResourceOnly>TRUE</CscFeature_RIL_SmsLoadShortcodeFromResourceOnly>
+    <CscFeature_RIL_SrvccRel>10</CscFeature_RIL_SrvccRel>
+    <CscFeature_RIL_SupportImsClirOverriding>TRUE</CscFeature_RIL_SupportImsClirOverriding>
+    <CscFeature_RIL_SupportVolte>TRUE</CscFeature_RIL_SupportVolte>
+    <CscFeature_RIL_SupportVolteVtCall>TRUE</CscFeature_RIL_SupportVolteVtCall>
+    <CscFeature_RIL_UpdateCscApnAfterSwitchingImsi>TRUE</CscFeature_RIL_UpdateCscApnAfterSwitchingImsi>
+    <CscFeature_RIL_UseMpsForImsSetting>TRUE</CscFeature_RIL_UseMpsForImsSetting>
+    <CscFeature_RIL_WbamrDefaultOn>TRUE</CscFeature_RIL_WbamrDefaultOn>
+    <CscFeature_VoiceCall_ConfigOpStyleForEmergencyDialCall>EndPreviousCall</CscFeature_VoiceCall_ConfigOpStyleForEmergencyDialCall>
+    <CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>voltesettingscommon,checknonvoltesim</CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>
+  </FeatureSet>
+</SamsungMobileFeature>

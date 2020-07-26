@@ -1,0 +1,10 @@
+aa	a
+cc	c
+ee	i
+hh	h
+ii	i
+oo	u
+ph	f
+uu	u
+w	v
+z	j

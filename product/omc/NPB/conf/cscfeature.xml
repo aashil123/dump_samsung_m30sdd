@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00003</Version>
+  <Country>NEPAL</Country>
+  <CountryISO>NP</CountryISO>
+  <SalesCode>NPB</SalesCode>
+  <FeatureSet>
+    <CscFeature_Common_ConfigBikeMode>bikemode|globalaction</CscFeature_Common_ConfigBikeMode>
+    <CscFeature_Common_ConfigYuva>AIBokeh|powerplanning|reserve|zeroforward|mileage|dashboard|sprotect|downloadable_spowerplanning|downloadable_sprotect|downloadable_usbbackup|MemorySaver|MemorySaver_Refresh|MemorySaver_Refresh_INSTALL_TO_SDCARD|sabc_default_on|downloadable_uds</CscFeature_Common_ConfigYuva>
+    <CscFeature_Common_SupportDualIMS>TRUE</CscFeature_Common_SupportDualIMS>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_FMRadio_RecordingVolumeAs>11</CscFeature_FMRadio_RecordingVolumeAs>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-ga-rev1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SupportSTSTool>TRUE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_LockScreen_DisableUnlockVI>TRUE</CscFeature_LockScreen_DisableUnlockVI>
+    <CscFeature_Setting_IncludeApn4SwUpdate>TRUE</CscFeature_Setting_IncludeApn4SwUpdate>
+    <CscFeature_Setting_ReplaceLabel4DualSim>Smart dual SIM</CscFeature_Setting_ReplaceLabel4DualSim>
+    <CscFeature_SmartManager_ConfigSubFeatures>UDS2,applock</CscFeature_SmartManager_ConfigSubFeatures>
+    <CscFeature_SmartManager_ConfigUdsSubFeatures>videocompression</CscFeature_SmartManager_ConfigUdsSubFeatures>
+    <CscFeature_Vision_ConfigImageSearch>PTRXX</CscFeature_Vision_ConfigImageSearch>
+    <CscFeature_Vision_ConfigPlace>FSRXX</CscFeature_Vision_ConfigPlace>
+    <CscFeature_Vision_ConfigShopping>NLLXX</CscFeature_Vision_ConfigShopping>
+    <CscFeature_Vision_ConfigTextTranslator>GGLXX</CscFeature_Vision_ConfigTextTranslator>
+    <CscFeature_Vision_ConfigWine>VVNXX</CscFeature_Vision_ConfigWine>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowedByMenu</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_VoiceCall_TunnigCallWaitingToneAs>80</CscFeature_VoiceCall_TunnigCallWaitingToneAs>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+  </FeatureSet>
+</SamsungMobileFeature>

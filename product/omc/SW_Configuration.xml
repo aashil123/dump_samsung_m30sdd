@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-M307F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>ODM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>M307FODM</CSCName>
+        <CSCVersion>3BTG1</CSCVersion>
+        <NbCustomer>5</NbCustomer>
+        <CustomerData src="/Customer/INS/customer.xml" />
+        <CustomerData src="/Customer/SLK/customer.xml" />
+        <CustomerData src="/Customer/SLI/customer.xml" />
+        <CustomerData src="/Customer/BKD/customer.xml" />
+        <CustomerData src="/Customer/NPB/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>BKD</CustomerCode>
+            <Version>SAOMC_SM-M307F_ODM_BKD_QQ_0011</Version>
+            <CustomerEdition>ED0009</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>INS</CustomerCode>
+            <Version>SAOMC_SM-M307F_ODM_INS_QQ_0021</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>NPB</CustomerCode>
+            <Version>SAOMC_SM-M307F_ODM_NPB_QQ_0007</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SLI</CustomerCode>
+            <Version>SAOMC_SM-M307F_ODM_SLI_QQ_0014</Version>
+            <CustomerEdition>ED0012</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SLK</CustomerCode>
+            <Version>SAOMC_SM-M307F_ODM_SLK_QQ_0007</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

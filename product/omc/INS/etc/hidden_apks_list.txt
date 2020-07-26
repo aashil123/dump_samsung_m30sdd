@@ -1,0 +1,2 @@
+/hidden/app/Amazon_Shopping_Samsung.apk
+/hidden/app/Samsung_Shop.apk
