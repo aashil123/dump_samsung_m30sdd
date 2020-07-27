@@ -1,0 +1,18 @@
+Kernel size 26896396
+Kernel address 0x10008000
+Ramdisk size 0
+Ramdisk address 0x11000000
+Secondary size 0
+Secondary address 0x10f00000
+Kernel tags address 0x10000100
+Flash page size 2048
+Board name is "SRPSE30A003KU"
+Command line "androidboot.selinux=permissive"
+This image is built using standard mkbootimg
+Extracting kernel to file zImage ...
+Extracting root filesystem to file initramfs.cpio.gz ...
+All done.
+---------------
+To recompile this image, use:
+  mkbootimg --kernel zImage --ramdisk initramfs.cpio.gz --cmdline 'androidboot.selinux=permissive' --board 'SRPSE30A003KU' -o new_boot.img
+
